@@ -7,5 +7,4 @@ IPython notebooks related to statistics, machine learning, etc.
 math
 ----
 
-* https://nbviewer.ipython.org/urls/raw.github.com/lambdafu/notebook/math/Statistics.ipynb
-
+* https://nbviewer.ipython.org/urls/raw.github.com/lambdafu/notebook/master/math/Statistics.ipynb
